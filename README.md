@@ -6,6 +6,7 @@ It's not complete code, but should be easy to port this over into your own realt
 - `lib` contains the main interfaces used to communicate with the backend, as well as the realtime perception driver.
 - `electron.cjs` contains the core electron driver which reads the screen.
 - `preload.js` contains the web environment hook injected into the browser context.
+- `clients.js` contains memory, perception, and other interface code.
 
 ## Remote AIs
 The system calls out to these AIs running remotely:
