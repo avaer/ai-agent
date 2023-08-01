@@ -1,6 +1,6 @@
-This is the core code of the MoeMate AI agent I wrote.
+A random collection of useful embodied AI agent code I wrote.
 
-It's not complete code, but should be easy to port this over into your own realtime agent systems.
+It's not a complete project, but it should be easy to port this over into your own, locally running realtime agent systems.
 
 ## Contents
 - `lib` contains the main interfaces used to communicate with the backend, as well as the realtime perception driver.
