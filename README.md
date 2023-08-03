@@ -1,4 +1,6 @@
-A random collection of useful embodied AI agent code I wrote.
+# avaer's AI Agent Dump
+
+A random collection of useful embodied AI agent code I wrote, and actively use in my projects.
 
 It's not a complete project, but it should be easy to port this over into your own, locally running realtime agent systems.
 
